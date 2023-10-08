@@ -1,1 +1,1 @@
-# Startup
+fake script
